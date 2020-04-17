@@ -1,0 +1,39 @@
+body{
+    background-color:  #FFC0CB;
+    font-family: Comic Sans Ms;
+}
+h1{
+    font-family: Comic sans-serif;
+    text-align: center;
+    color: #993399;
+}
+h2{
+    font-family: Comic sans-serif;
+    text-align: center;
+    color: #993399;
+}
+body{
+    font-family: Comic sans-serif;
+    text-align: center;
+    color: #993399;
+}
+p{
+    color: #993399;
+}
+#footer{
+    color: #FF1493;
+    padding: 20px; 
+    background-color: #2b022b;
+    font-size: small;
+}
+a:link{
+    color: #FF1493;
+    text-decoration: aqua;
+    border-bottom: black;
+}
+a:visited{
+    color: blueviolet;
+    text-decoration: none;
+    border-bottom: darkgray;
+    }
+}
